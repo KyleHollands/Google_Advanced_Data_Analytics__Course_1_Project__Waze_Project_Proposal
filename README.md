@@ -2,4 +2,4 @@
 
 For Course 1, a PACE Strategy Document was created to serve as a plan for the project. The strategy document considered the audience, teammates, key milestones, and overall goal to be achieved. Once the strategy document was completed, a Project Proposal was prepared for presentation to the data team.
 
-Overall Project Overview: As a member of the Waze Data Analytics team, we've been tasked with developing a machine learning model that can predict user churn. To accomplish this task, we will be provided with a sample of Waze user data. 
+Overall Project Overview: Tasked with developing a machine learning model that can predict user churn. To accomplish this task, I will be provided with a sample of Waze user data. 
